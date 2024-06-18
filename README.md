@@ -1,7 +1,10 @@
-# ejercicio-alumno
+### Práctica de un parcial del paradigma funcional
 
-## Integrantes
+Estoy en Ingeniería en Sistemas de Información, y hay una materia que se llama "Paradigmas de Programación".
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+En esa materia, se enseñan el paradigma funcional, lógico y de objetos.
+
+Este es un parcial que hice para practicar sobre el paradigma funcional, hecho en Haskell.
+
+El enunciado del parcial es el siguiente:
+[Parcial: Escuelita de Thanos](https://docs.google.com/document/d/1IKrJkdbPyoxfHqREIfqzxpsBdANcL2g9gvs9t-IR30E/edit?usp=sharing)
